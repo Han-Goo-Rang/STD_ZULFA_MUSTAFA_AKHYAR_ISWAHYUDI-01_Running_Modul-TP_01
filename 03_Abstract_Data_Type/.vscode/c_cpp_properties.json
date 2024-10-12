@@ -3,7 +3,7 @@
         {
             "name": "windows-gcc-x64",
             "includePath": [
-                "C:\\Program Files\\CodeBlocks\\MinGW\\include"
+                "${workspaceFolder}/**"
             ],
             "compilerPath": "C:\\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-18.1.8-mingw-w64ucrt-12.0.0-r1\\mingw64\\bin\\clang++.exe",
             "cStandard": "${default}",
