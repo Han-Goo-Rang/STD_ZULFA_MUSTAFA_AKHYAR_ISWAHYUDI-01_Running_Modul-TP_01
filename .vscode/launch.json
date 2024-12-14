@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/HUAWEI/OneDrive/Documents/ALL_ITTP_SEMESTER 3/STRUKTUR DATA/STD_ZULFA_MUSTAFA_AKHYAR_ISWAHYUDI_2311104010/14_Graph/Latihan_Unguided",
+      "program": "c:/Users/HUAWEI/OneDrive/Documents/ALL_ITTP_SEMESTER 3/STRUKTUR DATA/STD_ZULFA_MUSTAFA_AKHYAR_ISWAHYUDI_2311104010/14_Graph/Latihan_Unguided/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
